@@ -15,14 +15,14 @@ Audio assets for Edge notifications and workflow events.
 ## Immutable URLs (commit SHA)
 These are fully immutable and safe to use in production:
 
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/task_start.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/task_continuing.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/task_success.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/task_failure.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/critical_alert_requires_human_input.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/critical_alert_incident_level.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/critical_alert_voice_overlay_style.wav
-- https://raw.githubusercontent.com/lifelongedge/edge-media/d267c01f938c06f722188d238225db13fff6833f/audio/critical_alert_soft_loop.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/task_start.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/task_continuing.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/task_success.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/task_failure.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/critical_alert_requires_human_input.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/critical_alert_incident_level.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/critical_alert_voice_overlay_style.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/1ffe3f1714f7af7a39f7b3214441cb681a3a04b1/audio/critical_alert_soft_loop.wav
 
 ## Immutable URLs (tag-based)
 Once you create a tag (example: `v1.0.0`), use:
