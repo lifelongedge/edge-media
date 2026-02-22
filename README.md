@@ -35,3 +35,15 @@ Once you create a tag (example: `v1.0.0`), use:
 - https://raw.githubusercontent.com/lifelongedge/edge-media/v1.0.0/audio/critical_alert_incident_level.wav
 - https://raw.githubusercontent.com/lifelongedge/edge-media/v1.0.0/audio/critical_alert_voice_overlay_style.wav
 - https://raw.githubusercontent.com/lifelongedge/edge-media/v1.0.0/audio/critical_alert_soft_loop.wav
+
+## v2.0.0 Audio
+Versioned files are stored under `audio/v2.0.0/` with stable filenames.
+
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/task_start.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/task_continuing.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/task_success.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/task_failure.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/critical_alert_requires_human_input.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/critical_alert_incident_level.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/critical_alert_voice_overlay_style.wav
+- https://raw.githubusercontent.com/lifelongedge/edge-media/v2.0.0/audio/v2.0.0/critical_alert_soft_loop.wav
